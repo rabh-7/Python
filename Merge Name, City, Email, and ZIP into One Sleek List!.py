@@ -1,4 +1,4 @@
-#list of three individual info i.e. name, city, mail, and zip as single.
+#list of three individual info i.e. name, city, mail and zip as single.
 
 name=['Abhi','Max','Sam','Sim']
 city=['Delhi','sydney','Dubai','Hazaribagh']
